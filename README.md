@@ -96,7 +96,7 @@ pip install -r requirements.txt
 
 ## Team
 
-Group project by **Eve-Angeline Stephen**, Isabella Raevel and Anaïs Storp, supervised by Sarah Ouadah and Raphaël Fournier-S'niehotta.
+Group project by **Eve-Angeline Stephen**, Isabella Raevel and Anaïs Storp, supervised by Sarah Ouadah, Raphaël Fournier-S'niehotta and Nicolas Tchitchek.
 The code in this repository covers the datasets I analysed. My teammates worked on the kidney and multi-tissue immune datasets.
 
 ## References
